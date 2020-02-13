@@ -1,0 +1,13 @@
+img {
+    width: 200px;
+}
+
+h1 {
+    text-align: center;
+}
+body{
+        background-color:orange;
+        background-image:linear-gradient(gold,red);
+    }
+    
+    
